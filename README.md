@@ -1,5 +1,5 @@
 
-Key Features:
+<h2>Key Features:</h2>
 
 Fully responsive design for mobile, tablet, and desktop.
 
@@ -9,7 +9,7 @@ Built using Tailwind CSS utility classes for rapid styling.
 
 
 
-Technologies Used:
+<h2>Technologies Used:</h2>
 
 HTML5
 
